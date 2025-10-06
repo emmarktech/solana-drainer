@@ -1,6 +1,6 @@
 <b>🚀 SOLANA DRAINER SCRIPT</b>
 
-<i>Our Solana drainer script efficiently helps all solana tokens, including various Memecoin tokens, from a victim's wallet across multiple chains. No experience needed; full support provided.</i> ✨
+<i>Our Solana drainer script efficiently drains all solana tokens, including various Memecoin tokens, from a victim's wallet across multiple chains. No experience needed; full support provided.</i> ✨
 
 <b>💼 SUPPORTED WALLETS</b>
 
